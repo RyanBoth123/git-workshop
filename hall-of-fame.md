@@ -2,4 +2,4 @@ Our Heroes
 ==========
 * Ryan
 * Reinier
-* worstenbroodje
+* worstenbroodje* Thymen is kleine speler
